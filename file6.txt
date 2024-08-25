@@ -1,1 +1,1 @@
-This is file6
+Modified in branch3: Modifications are done  in branch3: This is file6
